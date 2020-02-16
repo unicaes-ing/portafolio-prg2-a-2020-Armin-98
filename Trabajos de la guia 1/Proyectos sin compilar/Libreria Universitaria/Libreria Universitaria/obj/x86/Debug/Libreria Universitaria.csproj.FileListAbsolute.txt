@@ -1,0 +1,9 @@
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\bin\x86\Debug\Libreria Universitaria.exe
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\bin\x86\Debug\Libreria Universitaria.pdb
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\obj\x86\Debug\Libreria Universitaria.csprojAssemblyReference.cache
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\obj\x86\Debug\Libreria_Universitaria.Libreria_Universitaria.resources
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\obj\x86\Debug\Libreria_Universitaria.Properties.Resources.resources
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\obj\x86\Debug\Libreria Universitaria.csproj.GenerateResource.cache
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\obj\x86\Debug\Libreria Universitaria.csproj.CoreCompileInputs.cache
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\obj\x86\Debug\Libreria Universitaria.exe
+C:\Users\Armando luna\Documents\Visual Studio 2017\Proyects\Libreria Universitaria\Libreria Universitaria\obj\x86\Debug\Libreria Universitaria.pdb

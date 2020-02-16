@@ -1,0 +1,8 @@
+C:\Users\Arman\Documents\Visual Studio 2017\Proyects\repos\Libreria Universitaria\Libreria Universitaria\bin\Release\Libreria Universitaria.exe
+C:\Users\Arman\Documents\Visual Studio 2017\Proyects\repos\Libreria Universitaria\Libreria Universitaria\bin\Release\Libreria Universitaria.pdb
+C:\Users\Arman\Documents\Visual Studio 2017\Proyects\repos\Libreria Universitaria\Libreria Universitaria\obj\Release\Libreria_Universitaria.Libreria_Universitaria.resources
+C:\Users\Arman\Documents\Visual Studio 2017\Proyects\repos\Libreria Universitaria\Libreria Universitaria\obj\Release\Libreria_Universitaria.Properties.Resources.resources
+C:\Users\Arman\Documents\Visual Studio 2017\Proyects\repos\Libreria Universitaria\Libreria Universitaria\obj\Release\Libreria Universitaria.csproj.GenerateResource.cache
+C:\Users\Arman\Documents\Visual Studio 2017\Proyects\repos\Libreria Universitaria\Libreria Universitaria\obj\Release\Libreria Universitaria.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Documents\Visual Studio 2017\Proyects\repos\Libreria Universitaria\Libreria Universitaria\obj\Release\Libreria Universitaria.exe
+C:\Users\Arman\Documents\Visual Studio 2017\Proyects\repos\Libreria Universitaria\Libreria Universitaria\obj\Release\Libreria Universitaria.pdb
