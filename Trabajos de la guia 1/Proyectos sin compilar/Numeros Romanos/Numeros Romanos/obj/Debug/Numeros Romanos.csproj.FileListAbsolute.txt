@@ -1,0 +1,9 @@
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\bin\Debug\Numeros Romanos.exe
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\bin\Debug\Numeros Romanos.pdb
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.csprojAssemblyReference.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros_Romanos.Form1.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros_Romanos.Properties.Resources.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.csproj.GenerateResource.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.csproj.CoreCompileInputs.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.exe
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Numeros Romanos\Numeros Romanos\obj\Debug\Numeros Romanos.pdb

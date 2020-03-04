@@ -1,0 +1,9 @@
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\bin\Debug\Sistema de descuento.exe
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\bin\Debug\Sistema de descuento.pdb
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\obj\Debug\Sistema de descuento.csprojAssemblyReference.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\obj\Debug\Sistema_de_descuento.discount_system.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\obj\Debug\Sistema_de_descuento.Properties.Resources.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\obj\Debug\Sistema de descuento.csproj.GenerateResource.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\obj\Debug\Sistema de descuento.csproj.CoreCompileInputs.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\obj\Debug\Sistema de descuento.exe
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de descuento\Sistema de descuento\obj\Debug\Sistema de descuento.pdb

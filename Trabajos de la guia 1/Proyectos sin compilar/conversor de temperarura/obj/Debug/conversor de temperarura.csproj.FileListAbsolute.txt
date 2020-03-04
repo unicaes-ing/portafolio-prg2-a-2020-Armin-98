@@ -1,0 +1,19 @@
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\bin\Debug\conversor de temperarura.exe.config
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\bin\Debug\conversor de temperarura.exe
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\bin\Debug\conversor de temperarura.pdb
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\obj\Debug\conversor de temperarura.csprojResolveAssemblyReference.cache
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\obj\Debug\conversor_de_temperarura.Properties.Resources.resources
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\obj\Debug\conversor de temperarura.csproj.GenerateResource.Cache
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\obj\Debug\conversor de temperarura.exe
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\obj\Debug\conversor de temperarura.pdb
+C:\Users\CATOLICA\Desktop\laboratorio 3\conversor de temperarura\obj\Debug\conversor_de_temperarura.Temperatura.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\bin\Debug\conversor de temperarura.exe.config
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\bin\Debug\conversor de temperarura.exe
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\bin\Debug\conversor de temperarura.pdb
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\obj\Debug\conversor de temperarura.csprojAssemblyReference.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\obj\Debug\conversor_de_temperarura.Temperatura.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\obj\Debug\conversor_de_temperarura.Properties.Resources.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\obj\Debug\conversor de temperarura.csproj.GenerateResource.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\obj\Debug\conversor de temperarura.csproj.CoreCompileInputs.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\obj\Debug\conversor de temperarura.exe
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\conversor de temperarura\obj\Debug\conversor de temperarura.pdb

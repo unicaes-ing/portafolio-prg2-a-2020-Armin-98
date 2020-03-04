@@ -1,0 +1,20 @@
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csprojAssemblyReference.cache
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Store.resources
+C:\Users\Arman\OneDrive\Documentos\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.unicaes_tech_store.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csprojAssemblyReference.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Store.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.unicaes_tech_store.resources
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+C:\Users\Armando Luna\Documents\Visual Studio 2017\Proyects\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
